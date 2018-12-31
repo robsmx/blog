@@ -14,7 +14,7 @@
             "url": "https://robsmx.github.io/blog/asdasdsdsda.html",
             "title": "asdasdsdsda",
             "summary": " asdsadasdsad asdasdasdasd",
-            "content_html": "<p> </p>\nasdsadasdsad asdasdasdasd\n<figure class=\"post__video\"><iframe width=\"560\" height=\"314\" src=\"https://www.youtube.com/embed/opQBithWVdI\" allowfullscreen=\"allowfullscreen\" ></iframe></figure>",
+            "content_html": "<p><img class=\"post__image\" src=\"https://robsmx.github.io/blog/media/posts/1/logo-03.jpg\" alt=\"\" width=\"7347\" height=\"4592\"> </p>\nasdsadasdsad asdasdasdasd\n<figure class=\"post__video\"><iframe width=\"560\" height=\"314\" src=\"https://www.youtube.com/embed/opQBithWVdI\" allowfullscreen=\"allowfullscreen\" ></iframe></figure>",
             "image": "https://robsmx.github.io/blog/media/posts/1/barcode.jpg",
             "author": {
                 "name": "Roberto Salas"
@@ -22,7 +22,7 @@
             "tags": [
             ],
             "date_published": "2018-12-31T10:23:53-06:00",
-            "date_modified": "2018-12-31T10:33:04-06:00"
+            "date_modified": "2018-12-31T12:08:44-06:00"
         }
     ]
 }
