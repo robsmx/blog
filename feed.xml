@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <title>Prueba</title>
+    <link href="https://robsmx.github.io/blog/feed.xml" rel="self" />
+    <link href="https://robsmx.github.io/blog" />
+    <updated>2018-12-31T10:36:43-06:00</updated>
+    <author>
+        <name>Roberto Salas</name>
+    </author>
+    <id>https://robsmx.github.io/blog</id>
+
+    <entry>
+        <title>asdasdsdsda</title>
+        <author>
+            <name>Roberto Salas</name>
+        </author>
+        <link href="https://robsmx.github.io/blog/asdasdsdsda.html"/>
+        <id>https://robsmx.github.io/blog/asdasdsdsda.html</id>
+
+        <updated>2018-12-31T10:33:04-06:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://robsmx.github.io/blog/media/posts/1/barcode.jpg" alt="" />
+                     asdsadasdsad asdasdasdasd
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="https://robsmx.github.io/blog/media/posts/1/barcode.jpg" alt="" />
+                <p> </p>
+asdsadasdsad asdasdasdasd
+<figure class="post__video"><iframe width="560" height="314" src="https://www.youtube.com/embed/opQBithWVdI" allowfullscreen="allowfullscreen" ></iframe></figure>
+            ]]>
+        </content>
+    </entry>
+</feed>
